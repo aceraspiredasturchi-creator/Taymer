@@ -1,0 +1,13 @@
+.container {
+    width: 740px;
+    display: flex;
+    gap: 10px;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 400px;
+}
+#minut {
+    margin-left: 110px;
+    
+}
+
